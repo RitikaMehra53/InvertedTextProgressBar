@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Progress Bar 1",
+    "acceptedValue": "$180,069",
+    "presentedValue": "$283,933",
+    "percentage": 63
+  },
+  {
+    "title": "Progress Bar 2",
+    "acceptedValue": "$180,069",
+    "presentedValue": "$336,642",
+    "percentage": 15
+  },
+  {
+    "title": "Progress Bar 3",
+    "acceptedValue": "$3,180,069",
+    "presentedValue": "$4,162,696",
+    "percentage": 81
+  },
+  {
+    "title": "Progress Bar 4",
+    "acceptedValue": "$870,069",
+    "presentedValue": "$946,137",
+    "percentage": 93
+  },
+  {
+    "title": "Progress Bar 5",
+    "acceptedValue": "$1,989,234",
+    "presentedValue": "$2,426,343",
+    "percentage": 86
+  }
+]
